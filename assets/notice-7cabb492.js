@@ -1,0 +1,1 @@
+import{_ as e,g as t,k as c}from"./index-40e528eb.js";const o={name:"NoticePage",components:{},setup(){return{}}},n={class:"notice"};function s(_,a,r,p,d,i){return t(),c("div",n,"notice")}const u=e(o,[["render",s],["__scopeId","data-v-f1c294bd"]]);export{u as default};

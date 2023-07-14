@@ -1,0 +1,1 @@
+import{_ as e,g as t,k as s}from"./index-40e528eb.js";const _={name:"MemberPage",components:{},setup(){return{}}},o={class:"member"};function n(c,a,r,m,p,d){return t(),s("div",o,"notice")}const u=e(_,[["render",n],["__scopeId","data-v-a8d20962"]]);export{u as default};
